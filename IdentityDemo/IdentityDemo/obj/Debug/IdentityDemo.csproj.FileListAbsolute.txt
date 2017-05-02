@@ -1,0 +1,5 @@
+E:\GitSourceCode\IdentityDemo\IdentityDemo\bin\Debug\IdentityDemo.exe.config
+E:\GitSourceCode\IdentityDemo\IdentityDemo\bin\Debug\IdentityDemo.exe
+E:\GitSourceCode\IdentityDemo\IdentityDemo\bin\Debug\IdentityDemo.pdb
+E:\GitSourceCode\IdentityDemo\IdentityDemo\obj\Debug\IdentityDemo.exe
+E:\GitSourceCode\IdentityDemo\IdentityDemo\obj\Debug\IdentityDemo.pdb
