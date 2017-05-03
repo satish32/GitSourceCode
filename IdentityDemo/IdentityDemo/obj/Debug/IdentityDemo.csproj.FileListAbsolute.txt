@@ -10,3 +10,17 @@ E:\GitSourceCode\IdentityDemo\IdentityDemo\bin\Debug\EntityFramework.dll
 E:\GitSourceCode\IdentityDemo\IdentityDemo\bin\Debug\Microsoft.AspNet.Identity.Core.xml
 E:\GitSourceCode\IdentityDemo\IdentityDemo\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
 E:\GitSourceCode\IdentityDemo\IdentityDemo\bin\Debug\EntityFramework.xml
+D:\GitSourceCode\GitSourceCode\IdentityDemo\IdentityDemo\bin\Debug\IdentityDemo.exe.config
+D:\GitSourceCode\GitSourceCode\IdentityDemo\IdentityDemo\obj\Debug\IdentityDemo.exe
+D:\GitSourceCode\GitSourceCode\IdentityDemo\IdentityDemo\obj\Debug\IdentityDemo.pdb
+D:\GitSourceCode\GitSourceCode\IdentityDemo\IdentityDemo\bin\Debug\IdentityDemo.exe
+D:\GitSourceCode\GitSourceCode\IdentityDemo\IdentityDemo\bin\Debug\IdentityDemo.pdb
+D:\GitSourceCode\GitSourceCode\IdentityDemo\IdentityDemo\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\GitSourceCode\GitSourceCode\IdentityDemo\IdentityDemo\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\GitSourceCode\GitSourceCode\IdentityDemo\IdentityDemo\bin\Debug\EntityFramework.dll
+D:\GitSourceCode\GitSourceCode\IdentityDemo\IdentityDemo\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\GitSourceCode\GitSourceCode\IdentityDemo\IdentityDemo\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\GitSourceCode\GitSourceCode\IdentityDemo\IdentityDemo\bin\Debug\EntityFramework.xml
+D:\GitSourceCode\GitSourceCode\IdentityDemo\IdentityDemo\obj\Debug\IdentityDemo.csprojResolveAssemblyReference.cache
+D:\GitSourceCode\GitSourceCode\IdentityDemo\IdentityDemo\bin\Debug\EntityFramework.SqlServer.dll
+D:\GitSourceCode\GitSourceCode\IdentityDemo\IdentityDemo\bin\Debug\EntityFramework.SqlServer.xml
