@@ -1,0 +1,6 @@
+E:\GitSourceCode\Delegate.Demo\Delegate.Demo\bin\Debug\Delegate.Demo.exe.config
+E:\GitSourceCode\Delegate.Demo\Delegate.Demo\bin\Debug\Delegate.Demo.exe
+E:\GitSourceCode\Delegate.Demo\Delegate.Demo\bin\Debug\Delegate.Demo.pdb
+E:\GitSourceCode\Delegate.Demo\Delegate.Demo\obj\Debug\Delegate.Demo.csprojResolveAssemblyReference.cache
+E:\GitSourceCode\Delegate.Demo\Delegate.Demo\obj\Debug\Delegate.Demo.exe
+E:\GitSourceCode\Delegate.Demo\Delegate.Demo\obj\Debug\Delegate.Demo.pdb
